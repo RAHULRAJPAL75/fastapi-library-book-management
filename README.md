@@ -60,7 +60,7 @@ project/
 
 ### 1️⃣ Clone Repository
 
-git clone https://github.com/your-username/fastapi-library-book-management.git
+git clone https://github.com/RAHULRAJPAL75/fastapi-library-book-management.git
 cd fastapi-library-book-management
 
 ### 2️⃣ Install Dependencies
