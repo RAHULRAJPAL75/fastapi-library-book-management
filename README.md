@@ -1,4 +1,3 @@
-# fastapi-library-book-management
 # 📚 FastAPI Library Book Management System
 
 ## 🚀 Project Overview
